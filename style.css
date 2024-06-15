@@ -1,3 +1,7 @@
 body {
     background-color: aqua;
 }
+header {
+    margin: 20px;
+    padding: 20px;
+}
